@@ -1,4 +1,4 @@
-                                                     # Hi 👋, I'm Karolyne Veloso
+   # Hi 👋, I'm Karolyne Veloso
 
 💻 Software Engineer | Cloud & DevOps | Backend
 🚀 Focused on building scalable systems and evolving applications to cloud-native architectures
@@ -7,11 +7,11 @@
 
 ### 🌱 Currently learning & focusing on
 
-* AWS Cloud Architecture
-* Azure Cloud Architecture
+* Cloud Architecture
 * DevOps & CI/CD pipelines
 * Kubernetes & container orchestration
 * Distributed systems & scalability
+* Infrastructure & scalability
 
 ---
 
@@ -20,8 +20,8 @@
 * Backend development (C#, Java, Node.js, Python)
 * REST APIs & system design
 * Docker & containerization
-* Cloud fundamentals
-* Infrastructure & scalability
+* Cloud fundamentals (azure, aws)
+
 
 ---
 
@@ -65,14 +65,6 @@
 * PostgreSQL database
 * Environment configuration (dev/prod)
 * Preparing for AWS deployment
-
----
-
-### 📊 GitHub Stats
-
-![Karolyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolyneveloso&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolyneveloso&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
