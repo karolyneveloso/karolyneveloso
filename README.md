@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karolyne Veloso
+                                                     # Hi 👋, I'm Karolyne Veloso
 
 💻 Software Engineer | Cloud & DevOps | Backend
 🚀 Focused on building scalable systems and evolving applications to cloud-native architectures
@@ -70,9 +70,9 @@
 
 ### 📊 GitHub Stats
 
-![Karolyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolyneveloso\&show_icons=true\&theme=tokyonight)
+![Karolyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolyneveloso&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolyneveloso\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolyneveloso&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
